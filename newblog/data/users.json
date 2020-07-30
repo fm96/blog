@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5f06d9a0e01b4b05d464f1eb"},"username":"aa","password":"aa","sex":"女","__v":0}
+{"_id":{"$oid":"5f06dbde75636f22e4f19c00"},"username":"bb","password":"bb","sex":"女","__v":0}
+{"_id":{"$oid":"5f06e645e03b522288fd2421"},"username":"cc","password":"cc","sex":"女","__v":0}
+{"_id":{"$oid":"5f06f879227abf1dc0a208e3"},"username":"we","password":"ere","sex":"女","__v":0}
+{"_id":{"$oid":"5f06f8c6411cca11a8fd2147"},"username":"1232","password":"545a1ef79577673d04cdc03410b242c9e7cd32921bf523d82a0fb44f7b6041da","sex":"女","__v":0}
+{"_id":{"$oid":"5f06f92bb6b52b13ac167dee"},"username":"qw","password":"15e57f0a12c77715b4c91f2c76c1749c886136ba4960ab32b93de3671ef1bacb","sex":"女","__v":0}
+{"_id":{"$oid":"5f080ba1ea2cdb04684121f0"},"username":"admin","password":"15e57f0a12c77715b4c91f2c76c1749c886136ba4960ab32b93de3671ef1bacb","sex":"男","regtime":{"$date":"2020-07-10T06:33:05.064Z"},"__v":0}
